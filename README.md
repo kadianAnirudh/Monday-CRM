@@ -14,4 +14,4 @@
 
 <p>  • This project allows you to create tickets under different headers and to edit the already created tickets. </p>
 
-<p>  • The link to view a video demo of this project is : <a href="https://www.youtube.com/watch?v=qD1E3axmMvc&ab_channel=AnirudhKadian"> Monday CRM video demo </a> </p>
+<p>  • The link to view a video demo of this project is : <a href="https://youtu.be/fOcA8pRUoEs"> Monday CRM video demo </a> </p>
